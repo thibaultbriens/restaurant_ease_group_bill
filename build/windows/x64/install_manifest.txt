@@ -1,0 +1,10 @@
+C:/Users/tbriens/Documents/Dev/restaurant_ease_groupe_bill/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/Users/tbriens/Documents/Dev/restaurant_ease_groupe_bill/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Users/tbriens/Documents/Dev/restaurant_ease_groupe_bill/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/tbriens/Documents/Dev/restaurant_ease_groupe_bill/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/tbriens/Documents/Dev/restaurant_ease_groupe_bill/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/tbriens/Documents/Dev/restaurant_ease_groupe_bill/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/tbriens/Documents/Dev/restaurant_ease_groupe_bill/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/tbriens/Documents/Dev/restaurant_ease_groupe_bill/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/tbriens/Documents/Dev/restaurant_ease_groupe_bill/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/tbriens/Documents/Dev/restaurant_ease_groupe_bill/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
