@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:restaurant_ease_groupe_bill/functions.dart';
-import 'package:restaurant_ease_groupe_bill/widgets/text_title.dart';
+import 'package:restaurant_ease_groupe_bill/widgets/text_styles.dart';
 import 'package:restaurant_ease_groupe_bill/variables.dart';
+import 'package:restaurant_ease_groupe_bill/widgets/my_footer.dart';
+import 'package:restaurant_ease_groupe_bill/widgets/nav_bar.dart';
 
 double mul = 0; 
 
@@ -16,12 +18,7 @@ const HomeView({ Key? key }) : super(key: key);
       backgroundColor: backgroundColor,
       body: Column(
         children: <Widget>[
-          Container(
-            padding: EdgeInsets.all(10 * mul),
-            alignment: Alignment.center,
-            child: Image.asset("logo.png",
-              scale: 17 * (2 - mul),)
-          ),
+          NavBar(),
           SizedBox(width: 0.0, height: 30 * mul),
           TextTitle("This is a Title"),
           //SizedBox(width: 0.0, height: 20),
@@ -45,17 +42,7 @@ const HomeView({ Key? key }) : super(key: key);
             ),
             // Footer
             Spacer(),
-            Container(
-              padding: EdgeInsets.fromLTRB(0, 30 * mul, 0, 30 * mul),
-              alignment: Alignment.bottomCenter,
-              child: Row(
-                crossAxisAlignment: CrossAxisAlignment.end,
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: <Widget>[
-                  TextParagraph("Fait avec ♥️ par Thibault Briens"),
-                ],
-              ),
-            )
+            MyFooter(),
         ],
       ),
     );
