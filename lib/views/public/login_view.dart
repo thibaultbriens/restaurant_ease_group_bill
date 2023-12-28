@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:responsive_builder/responsive_builder.dart';
 import 'package:restaurant_ease_groupe_bill/functions.dart';
 import 'package:restaurant_ease_groupe_bill/widgets/text_styles.dart';
